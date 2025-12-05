@@ -180,7 +180,7 @@ export default class MonitorScreen extends EventEmitter {
 
     // Set iframe attributes
     // PROD
-    iframe.src = "https://socratchat.vercel.app/";
+    iframe.src = "";
     /**
      * Use dev server is query params are present
      *
