@@ -180,7 +180,7 @@ export default class MonitorScreen extends EventEmitter {
 
     // Set iframe attributes
     // PROD
-    iframe.src = "";
+    iframe.src = "https://nird-os-sigma.vercel.app/";
     /**
      * Use dev server is query params are present
      *
